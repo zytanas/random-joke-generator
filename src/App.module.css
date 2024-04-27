@@ -1,0 +1,12 @@
+*{
+  background-color: #ffad23;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
